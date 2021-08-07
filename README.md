@@ -4,4 +4,4 @@ This is a simple clock application that I made, using some Java Foundation Class
 
 ![alt text](https://github.com/MihaelMihov/ClockApplication/blob/master/src/com/company/img/Capture.JPG)
 
-Just open the app from your favorite IDE or run the jar filw provided.
+Just open the app from your favorite IDE or run the jar file provided.
